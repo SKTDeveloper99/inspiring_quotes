@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15920923300",
+    "project_id": "inspiring-quotes-9e078",
+    "storage_bucket": "inspiring-quotes-9e078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15920923300:android:021697e968a8703dbe9c31",
+        "android_client_info": {
+          "package_name": "com.example.inspiring_quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15920923300-u8gaa3ohsmn332fqt473dpuldsp4dgvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBbvFhISpLPk25nFAMnzLytduqdKMb4XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15920923300-u8gaa3ohsmn332fqt473dpuldsp4dgvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
