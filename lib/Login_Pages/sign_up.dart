@@ -32,7 +32,7 @@ class SignUpPage extends StatelessWidget {
                   ),
                 ),
                 Image.asset(
-                    'assets/RNG_2021_Summer.jpg'
+                    'assets/guitar_pic.jpg'
                 ),
                 Container(
                   margin:

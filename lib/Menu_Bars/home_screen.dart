@@ -1,11 +1,11 @@
-import 'package:inspiring_quotes/Menu_Bars/Friends_Screen.dart';
-import 'package:inspiring_quotes/Menu_Bars/Settings.dart';
+import 'package:inspiring_quotes/Menu_Bars/fun_interact.dart';
+import 'package:inspiring_quotes/Menu_Bars/settings.dart';
 import 'package:inspiring_quotes/constants/color_constants.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 import 'package:inspiring_quotes/Menu_Bars/user_profile.dart';
-import 'package:inspiring_quotes/Menu_Bars/user_cards.dart';
+import 'package:inspiring_quotes/Menu_Bars/quotes_page.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 

@@ -22,7 +22,7 @@ class _LoginPageState extends State<LoginPage> {
               children: <Widget> [
                 Container(
                   child: Container(
-                      child: Image.asset('assets/LPL_logo.png',scale: 2)
+                      child: Image.asset('assets/inspiring_pic_1.jpg',scale: 2)
                   ),
                 ),
                 Container(
