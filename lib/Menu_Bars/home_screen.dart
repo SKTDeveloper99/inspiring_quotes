@@ -91,7 +91,7 @@ class _UserProfilePageState extends State<UserProfilePage> {
           items: [
             BottomNavigationBarItem(icon: Icon(FontAwesomeIcons.home),label: "Home"),
             BottomNavigationBarItem(icon: Icon(FontAwesomeIcons.database),label: "Collection"),
-            BottomNavigationBarItem(icon: Icon(FontAwesomeIcons.userFriends),label: "Friends"),
+            BottomNavigationBarItem(icon: Icon(FontAwesomeIcons.userFriends),label: "Fun"),
             BottomNavigationBarItem(icon: Icon(FontAwesomeIcons.cog),label: "Settings"),
           ],
           currentIndex: _selectedIndex,

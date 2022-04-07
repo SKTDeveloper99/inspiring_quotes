@@ -23,7 +23,7 @@ class ForgotPassWordPage extends StatelessWidget {
               ),
               SizedBox(
                 child: Image.asset(
-                    'assets/lplchamps.jpeg'
+                    'assets/buffalo_pic.jpg'
                 ),
               ),
               Container(
